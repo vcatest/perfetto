@@ -16,7 +16,7 @@ jobs:
     
     # Define the environment variables that need to be passed securely
     env:
-      EMBOLD_SERVER_URL: http://18.184.13.138:3089
+      EMBOLD_SERVER_URL: http://18.184.13.138:5666
       EMBOLD_REPO_ID: 8fb61b75082b2c1b42786bf97bb093c5
       
     steps:
